@@ -21,6 +21,9 @@
 
 Si vous deviez mettre en place un système d'authentification où seul l'utilisateur authentifié peut ajouter des ingrédients à son Kebab, comment procéderiez vous?
 
+## Spring MVC versus Vert-x
+
+*Vos préférences?*
 
 ## Votre avis sur le TP et les exercices
 
